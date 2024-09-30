@@ -5,7 +5,7 @@
 
 Welcome to **SnapAuth**, the cutting-edge browser extension designed for **real-time face liveliness detection**. Forget about outdated security methods; with SnapAuth, you can ensure users' real-time presence with just their face! 🖥️💡
 
-![SnapAuth Logo](screenshots\logo.jpg)
+![SnapAuth Logo](/screenshots/logo.jpg)
 
 ## 🌟 Features
 
@@ -29,16 +29,16 @@ Welcome to **SnapAuth**, the cutting-edge browser extension designed for **real-
 Take a look at SnapAuth in action:
 
 ### ⚙️ **SnapAuth in Action**
-![SnapAuth in Action](screenshots\s2.jpg)
+![SnapAuth in Action](/screenshots/s2.jpg)
 
 ### ⚙️ **Authenticated**
-![Authenticated](screenshots\s1.jpg)
+![Authenticated](/screenshots/s1.jpg)
 
 ### 📸 **Real-time Face Detection**
-![Face Detection](screenshots\face_recog.jpg)
+![Face Detection](/screenshots/face_recog.jpg)
 
 ### 📸 **Eye Tracking**
-![Eye Tracking](screenshots\eyetrack.jpg)
+![Eye Tracking](/screenshots/eyetrack.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Wanna See SnapAuth in its early stages:
 
-[![SnapAuth Tutorial](screenshots\SnapAuth.png)](https://youtu.be/wpKHdP1oZbg)
+[![SnapAuth Tutorial](/screenshots/SnapAuth.png)](https://youtu.be/wpKHdP1oZbg)
 
 ---
 
